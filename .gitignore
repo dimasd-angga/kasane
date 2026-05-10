@@ -2,8 +2,11 @@ target/
 result
 result-*
 .direnv/
+temp_auto_push.bat
 .pre-commit-config.yaml
 .claude/
 check_links.sh
 fifo-trace.log
 alloc_budget.json
+.gitignore
+branch_structure.json
